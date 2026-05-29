@@ -1,0 +1,6 @@
+{
+  "name": "霓虹彈珠打磚塊",
+  "description": "一款畫面絢麗、搭載物理軌道預測與多重特殊磚塊與技能的霓虹風格街機打磚塊遊戲。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
